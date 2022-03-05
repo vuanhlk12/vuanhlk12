@@ -1,6 +1,6 @@
 <!-- vuanh -->
 <a href="#" target="_blank">
-  <img src="svg/vuanh.svg" width="1200" alt="Click to see the source" height="360" />
+  <img src="svg/vuanh1.svg" width="1200" alt="Click to see the source" height="360" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
